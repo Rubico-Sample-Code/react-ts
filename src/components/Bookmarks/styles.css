@@ -1,0 +1,5 @@
+.bookmarks {
+  height: calc(var(--screen-height) - 70px);
+  overflow-y: auto;
+  padding: 1rem;
+}
